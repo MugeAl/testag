@@ -3,7 +3,7 @@ Vous trouverez ci-après une explication de la structure du projet, ainsi que de
 
 # testag 
 
-[https://mnassrib.github.io/testag/](https://mnassrib.github.io/testag/)
+https://mugeal.github.io/testag/
 
 Ce projet est un site web simple hébergé sur GitHub Pages, conçue pour la web analyse. Il permet de tester la configuration de Google Tag Manager (GTM) et Google Analytics 4 (GA4) pour le suivi des utilisateurs.
 
